@@ -24,6 +24,20 @@ The dashboard currently shows:
 
 ---
 
+## 🖥️ Dashboard Preview
+
+### Main Dashboard
+![GitHub Developer Analytics Dashboard](screenshots/dashboard.png)
+
+### Repository Analytics
+![Repository Analytics](screenshots/repositories.png)
+
+### Recently Updated Repositories
+![Recently Updated Repositories](screenshots/recent-repositories.png)
+
+### Analytics Overview
+![Analytics Overview](screenshots/analytics.png)
+
 ## 🔄 How it works
 
 The Flutter app sends a request to the Python backend.
